@@ -65,7 +65,7 @@
     <div class="row">
       <div class="col-md-6">
         <h2 class="h3 mb-3">About Me</h2>
-        <p>Hello! I’m Youssef Kerbel. I am a fourth year student in programming and IT expertise at Epitech, Paris. and i'm available and open to any good opportunity </p>
+        <p>Hello! I’m Youssef Kerbel. I am a fourth year student in programming and IT expertise at Epitech, Paris. Available and open to any good opportunity </p>
       </div>
       <div class="col-md-5 offset-md-1">
         <div class="row mt-2">
@@ -187,7 +187,7 @@
       </div>
       <div class="timeline-card timeline-card-primary card shadow-sm">
         <div class="card-body">
-          <div class="h5 mb-1">Developer "Data scientiste" <span class="text-muted h6">(Internship) at Aperam</span></div>
+          <div class="h5 mb-1">Developer "Data scientist" <span class="text-muted h6">(Internship) at Aperam</span></div>
           <div class="text-muted text-small mb-2">SEP 2017 -  DEC 2017</div>
           <div>- Introduction of machine learning in the company <br>
             - Creation of data analysis tools with <br>
